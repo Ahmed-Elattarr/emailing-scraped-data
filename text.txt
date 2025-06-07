@@ -1,0 +1,4 @@
+this project will:
+    1.scrape a site (request,Beautiful Soup)
+    2.put it in a xlsx (openpyxl)
+    3.email the file to me (smtplib)
